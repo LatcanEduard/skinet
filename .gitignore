@@ -6,3 +6,4 @@ riderModule.iml
 *.yml
 /API/appsettings.json
 /Infrastructure/Migrations
+identifier.sqlite
